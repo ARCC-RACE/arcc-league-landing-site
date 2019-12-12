@@ -406,7 +406,7 @@ p {
 }
 
 .home-bg-overlay {
-  background: url(../images/overlay.png);
+  /*background: url(../images/overlay.png);*/
   position: absolute;
   top: 0;
   right: 0;
@@ -719,7 +719,7 @@ p {
 }
 
 .bg-client {
-  background-image: url(../images/bg-2.jpg);
+  /*background-image: url(../imasges/bg-2.jpg);*/
   background-size: cover;
   position: relative;
   background-position: center center;
@@ -880,7 +880,7 @@ textarea.form-control {
 }
 
 .footer-bg-overlay {
-  background: url(../images/overlay.png);
+  /*background: url(../images/overlay.png);*/
   position: absolute;
   top: 0;
   right: 0;
